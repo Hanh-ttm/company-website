@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hanh-ttm.github.io/company-website/sitemap.xml
